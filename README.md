@@ -52,7 +52,7 @@ The project combines historical banking data with **2024 transaction analysis**,
 - Power Query
 - DAX
 - Data Modeling
-- Star Schema
+- Galaxy Schema
 
 ---
 
